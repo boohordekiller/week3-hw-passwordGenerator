@@ -25,9 +25,12 @@
                 <hr>
                 <input type="text" placeholder="Your Secure Password" id="display">
                 <hr>
-                <input type="range" min="8" max="128" name="slider" id="slider">
-                <button class="button" onclick="generatePassword()">Generate Password</button>
-                <button class="button1" onclick="copyPassword()">Copy to Clipboard</button>
+                <div class="generate-container">
+                    <button class="button" onclick="generatePassword()">Generate Password</button>
+                    <input type="range" min="8" max="128" name="slider" id="slider">
+                    <button class="button1" onclick="copyPassword()">Copy to Clipboard</button> 
+                </div>
+                
             </div>
         </div>
     </div>

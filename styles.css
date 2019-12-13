@@ -75,3 +75,8 @@ hr {
     border-radius: 30px;
     border-width: 0px;
 }
+
+.generate-container {
+    display: flex;
+    justify-content: space-evenly;
+}

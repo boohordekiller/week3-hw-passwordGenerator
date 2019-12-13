@@ -1,7 +1,7 @@
 # Product Name
 > Random Password Generator
 
-This is a random password generator with optional user configurable slider to choose a password character length. This app will run in the browser and feature dynamically updated HTML and CSS powered by JavaScript code.
+This is a random password generator with optional user configurable slider to choose a password character length. Minimum character length is 8 up to 128 characters. User will be able to easily copy generated password by clicking Copy to Clipboard button. This app will run in the browser and feature dynamically updated HTML and CSS powered by JavaScript code.
 
 ## Screenshots
 <img src="images/password.jpg" width="1000"/>
@@ -34,5 +34,7 @@ ADDITIONALLY user can easily copy a password by clicking copy to clipboard butto
 
 ## Meta
 
-[Password Generator](https://github.com/boohordekiller/week3-hw-passwordGenerator)
+[Password Generator Repo](https://github.com/boohordekiller/week3-hw-passwordGenerator)
+
+[Password Generator](https://boohordekiller.github.io/week3-hw-passwordGenerator/)
 

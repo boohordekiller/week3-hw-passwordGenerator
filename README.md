@@ -34,5 +34,5 @@ ADDITIONALLY user can easily copy a password by clicking copy to clipboard butto
 
 ## Meta
 
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+[Password Generator](https://github.com/boohordekiller/week3-hw-passwordGenerator)
 
